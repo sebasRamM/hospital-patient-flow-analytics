@@ -1,4 +1,4 @@
-# Hospital patient flow analytics
+# Hospital patient flow, Data Engineering Project
 
 This project demonstrates a real-time data engineering pipeline for healthcare, designed to analyze patient flow across hospital departments using Azure cloud services.
 The pipeline ingests streaming data, processes it in Databricks (PySpark), and stores it in Azure Synapse SQL Pool for analytics and visualization.
